@@ -1,0 +1,8 @@
+1.多线程
+2.jvm
+3.中间件（dubbo,zookeeper,redis,nginx,mq)
+4.框架springboot mybatis,mysql
+5.网络
+6.数据结构与算法
+7.设计模式
+8.大数据
